@@ -1,4 +1,4 @@
-# Vilniusuniprojects
+# AIS dataset analysis
 
 # 🚢 Vessel ETA Prediction Using AIS Data
 
